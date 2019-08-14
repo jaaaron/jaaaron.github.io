@@ -185,7 +185,7 @@
 })(jQuery);
 
 /* stretch */
-document.getElementById("logo").addEventListener("click", twitterAnimation);
+document.getElementById("title").addEventListener("click", twitterAnimation);
 
 function twitterAnimation() {
   document.getElementById("demo").innerHTML = ("Dont Forget To Follow");
